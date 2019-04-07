@@ -1,0 +1,21 @@
+{
+  "name": "irclog-imba",
+  "description": "irclog couchapp in imba",
+  "keywords": [
+    "imba",
+    "couchapp",
+    "irclog"
+  ],
+  "author": "Damjan Georgievski",
+  "license": "MIT",
+  "bugs": "https://github.com/gdamjan",
+  "version": "1.0.0",
+  "devDependencies": {
+    "imba": "^1.4.2",
+    "webpack": "^4.29.6",
+    "webpack-cli": "^3.3.0"
+  },
+  "scripts": {
+    "build": "webpack"
+  }
+}
